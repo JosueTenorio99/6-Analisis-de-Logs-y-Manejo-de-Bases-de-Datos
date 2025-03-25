@@ -35,7 +35,7 @@ Como parte de los ejercicios, realicé tareas como la identificación de solicit
 
 ## 📂 Contenido del Repositorio
 
-#### 🐞📄 `Josué Tenorio - Sprint 6.doc` → Documento con:
+#### 🐞📄 `Josué Tenorio - Sprint 6.pdf` → Documento con:
 
 ##### Sección "Logs": Registro de las actividades relacionadas con los logs.
 ##### Sección "Consultas SQL": Detalles sobre las consultas SQL realizadas en la base de datos.
